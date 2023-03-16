@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1678895492 source:d:\code\codeblock\sdl2_gameproject\gameproject\main.cpp
+	"LTexture.h"
+
+1678895425 source:d:\code\codeblock\sdl2_gameproject\gameproject\ltexture.cpp
+	"LTexture.h"
+
+1678894646 d:\code\codeblock\sdl2_gameproject\gameproject\ltexture.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<cmath>
+
+1678895510 source:d:\code\codeblock\sdl2_gameproject\bai_tap_lon\ltexture.cpp
+
+1678895492 source:d:\code\codeblock\sdl2_gameproject\bai_tap_lon\main.cpp
+	"LTexture.h"
+
+1678894646 d:\code\codeblock\sdl2_gameproject\bai_tap_lon\ltexture.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<cmath>
+
