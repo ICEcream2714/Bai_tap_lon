@@ -13,7 +13,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
-					<Add directory="./" />
+					<Add directory="src" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -23,7 +23,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
-					<Add directory="./" />
+					<Add directory="src" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -33,11 +33,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="LTexture.cpp" />
-		<Unit filename="LTexture.h" />
-		<Unit filename="main.cpp" />
-		<Extensions>
-			<lib_finder disable_auto="1" />
-		</Extensions>
+		<Unit filename="src/LTexture.cpp" />
+		<Unit filename="src/LTexture.h" />
+		<Unit filename="src/main.cpp" />
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
